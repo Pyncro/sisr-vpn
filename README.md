@@ -34,10 +34,13 @@ Tapez votre localhost puis "/setup"
 
 ![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/usergenerate.png)
 
-![images](inkdrop://file:ZijI7cA7j)
+![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/signedin.png)
 
-![images](inkdrop://file:7pA8nopnf)
+![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/serverupandrunning.png)
 
-![images](inkdrop://file:xwFb5Xm1s)
+![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/creatingmoreusers.png)
 
-![images](inkdrop://file:jv9nhZAZY)
+
+
+
+https://client.pritunl.com
