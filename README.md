@@ -18,25 +18,26 @@ apt-get upgrade
 ```
 
 Ensuite:
+
 ![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/aptinstall.png)
 
 ``` systemctl status pritunl```
-![clipboard.png](inkdrop://file:Kcb0hbUmF)
+![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/status.png)
 
 ``` systemctl status mongodb```
-![clipboard.png](inkdrop://file:DFZyF1kB7)
+![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/mstatus.png)
 
 Tapez votre localhost puis "/setup"
-![clipboard.png](inkdrop://file:uECkI5nGW)
+![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/localhost.png)
 
-![clipboard.png](inkdrop://file:SJ8jxekX4)
+![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/logincredentials.png)
 
-![clipboard.png](inkdrop://file:6GjpLyHhe)
+![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/usergenerate.png)
 
-![clipboard.png](inkdrop://file:ZijI7cA7j)
+![images](inkdrop://file:ZijI7cA7j)
 
-![clipboard.png](inkdrop://file:7pA8nopnf)
+![images](inkdrop://file:7pA8nopnf)
 
-![clipboard.png](inkdrop://file:xwFb5Xm1s)
+![images](inkdrop://file:xwFb5Xm1s)
 
-![clipboard.png](inkdrop://file:jv9nhZAZY)
+![images](inkdrop://file:jv9nhZAZY)
