@@ -22,9 +22,11 @@ Ensuite:
 ![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/aptinstall.png)
 
 ``` systemctl status pritunl```
+
 ![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/status.png)
 
 ``` systemctl status mongodb```
+
 ![images](https://github.com/Pyncro/sisr-vpn/blob/main/ozij/mstatus.png)
 
 Tapez votre localhost puis "/setup"
